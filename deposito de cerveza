@@ -1,0 +1,23 @@
+1. Nombre del proyecto
+2. Objetivos
+(Redacte los objetivos del proyecto contestando a las preguntas que se va a hacer y para qué y siempre hablando en tercera persona)
+a. General
+b. Especifico
+3. Justificación
+(Redactar el por qué se realizaría el proyecto, hablando en tercera persona)
+4. Requisitos funcionales
+(Es una lista de funciones que realizara el sistema, por ejemplo, en un sistema de control escolar un requisito funcional puede ser “El sistema permite capturar y modificar las calificaciones por parte del docente” otro “El sistema permite al alumno solo consultar las calificaciones”)
+5. Roles
+(tabla de personas del equipo de trabajo y competencias técnicas. Como la práctica 2)
+6. Plan de proyecto
+(actividades con fechas estimada de inicio y fin)
+7. Estimación de costo del proyecto
+(tabla con horas necesarias por actividad y horas dedicadas por cada rol)
+8. Tecnologías
+(Listado de herramientas necesarias para el desarrollo e implementación del proyecto, por ejemplo, en que lenguaje se programaría, en que ide o que base de datos entre otros)
+9. Prototipo
+(Utilizando la herramienta de pencil o alguna otra)
+10. Tablero en Trello
+(Capturas del tablero por equipo con permiso a los integrantes y listas de actividades de tareas, en proceso y realizadas)
+11.  Repositorio en GitHub.
+(Capturas de pantalla de la cree un repositorio público en GitHub , por equipo, con el nombre del proyecto y que suban un archivo de ejemplo)
